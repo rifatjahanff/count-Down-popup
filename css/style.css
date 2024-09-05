@@ -1,0 +1,61 @@
+/* All comon css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+a,a:hover{
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin:0;
+    padding: 0;
+    line-height: .8;
+}
+/* All comon css start */
+
+#mujib_borso{
+    height: 700px;
+    background: #dda9a9;
+}
+
+.top{
+   padding-top: 100px;
+}
+
+.top_text h1{
+    border-left: 5px solid tomato;
+}
+.img{
+    margin-left: 350px;
+}
+.one h2{
+    padding: 10px;
+}
+.one h3{
+    margin-top: 10px;
+    margin-left: 9px;
+}
+.two h2{
+    padding: 10px;
+}
+.three h2{
+    padding: 10px;
+}
+.four h2{
+    padding: 10px;
+}
+
+/* bottom part */
+
+#counter_down {
+	padding: 50px 0;
+	height: 1900px;
+	background: #f0e6e6;
+}
